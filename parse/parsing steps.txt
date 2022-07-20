@@ -1,0 +1,11 @@
+Steps to follow to create city.xml file
+
+create a folder called "assets"
+App->new->folder->assets folder
+
+In order to open this "assets" folder
+click on app->scr->main folder->assets
+
+Inside the assets folder create new files of xml and json using the following hierarchy:
+new->file->city.xml
+new->file->city.json 
